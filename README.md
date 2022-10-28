@@ -7,3 +7,6 @@
   
 * Why backoff and retry need in real life queing.   
   video: https://youtu.be/9yjZpBq1XBE
+  
+## Paper Writing
+* https://lamport.azurewebsites.net/pubs/state-the-problem.pdf
